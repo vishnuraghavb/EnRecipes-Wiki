@@ -1,0 +1,9 @@
+- You can now choose a system default theme to follow your device's dark mode setting (for Android 10 and above)
+- Cooking timer tool has been added
+- Individual settings page for each tool
+- The recipes can now be sorted in random order
+- RTL language support
+- Print recipe
+- Duplicate recipe
+- Revamped Meal planner UI
+- Edge swipe to navigate back

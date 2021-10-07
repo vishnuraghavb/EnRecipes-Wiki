@@ -1,0 +1,35 @@
+To continue receiving updates, please update your EnRecipes to this version.
+
+There are some significant changes in this version. So, in order to continue, you must do the following:
+1. Export a full backup.
+2. Uninstall EnRecipes.
+3. Install this version and Import your data.
+
+EnRecipes is an open source, privacy-friendly digital cookbook that lets you create, manage and share your recipes.
+
+Features:
+
+- Create recipes quickly
+- Add photo, combinations and notes to your recipes
+- Organise your recipes by cuisine, category and tags
+- Add recipes to your Try Later list and mark them as favorites
+- Quickly search for recipes by title or ingredient
+- Scale your recipe ingredients to serve more or less people
+- Get notified of the last time you tried a recipe
+- Share your recipe to anyone by any means as a nicely formatted message. You can share the recipe photo too.
+- Shake your device to view a random recipe
+- Create meal plans
+- Set cooking timers
+- You can Import or Export your data
+- Has Light, Dark and Black themes
+
+Highlights:
+
+- 100% free and open-source
+- Private by Design
+- No special permissions required
+- No annoying ads or pop-ups
+
+Credits:
+
+This app was written in my free time using NativeScript-Vue. I would like to thank all those people who helped me understand the concepts during the process and my special thanks to the NativeScript team and the community. I also would like to thank the members of the Telegram EnRecipes group for contributing their ideas for this project.
